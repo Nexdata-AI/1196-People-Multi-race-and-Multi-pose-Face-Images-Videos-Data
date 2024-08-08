@@ -3,7 +3,7 @@
 ## Description
 1,196 People Multi-race and Multi-pose Face Images & Videos Data, 22 images and 40 videos per person. The collection environment includes indoor and outdoor scenes. This data can be used for face recognition and other tasks.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/259?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/computervision/259?source=Github
 
 
 # Specifications
